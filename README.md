@@ -1,5 +1,7 @@
 V0:Initial EDA revealed a correlation between survival probability and gender. Selected high-weight features including Pclass, Sex, SibSp, and Parch.
+
 V0.1.0:Implemented advanced feature extraction on the Age and Fare(e.g.,cabinning, imputation), resultng in a 1.1% accurarcy improvement.
+
 V0.1.1:
    1.Extracted top label features and binarized the Sex feature.
    2.Generated heatmaps to analyze feature correlations.
