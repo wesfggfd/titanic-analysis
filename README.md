@@ -2,7 +2,7 @@
 
 [![Kaggle Competition](https://img.shields.io/badge/Kaggle-Compete-blue?logo=kaggle)](https://www.kaggle.com/competitions/titanic)
 [![Best Score](https://img.shields.io/badge/Score-0.78947-brightgreen)](https://www.kaggle.com/yourusername)
-[![Python Version](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python)](https://www.python.org/)
+[![Python Version](https://img.shields.io/badge/Python-3.1%2B-blue?logo=python)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green)](LICENSE)
 
 ![Titanic Survival Prediction Flowchart](https://via.placeholder.com/800x400.png/009688/ffffff?text=Data+Processing+Pipeline)
