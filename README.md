@@ -16,7 +16,35 @@ Version 2: 0.78468 (+1.25% improvement)
 Version 3: 0.78947 (+1.84% total improvement)
 ```
 
+# Improvement
 
+```bash
+1. Version 1
+
+Selected four key features.
+
+Applied simple label encoding.
+
+Used a default-parameter Random Forest classifier.
+
+Score: 0.77511
+
+2. Version 2
+
+Added basic categorical feature processing (mapped categories to median values).
+
+Score: 0.78468
+
+3. Version 3
+
+Performed extensive data exploration.
+
+Engineered new features (binning, missing-value handling, custom title categories, etc.).
+
+Tuned hyperparameters via grid search.
+
+Score: 0.78947
+```
 
 ## Titanic Survival Prediction-Code Evolution Analysis
 
